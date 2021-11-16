@@ -19,7 +19,7 @@
     margin-top: 20rem;
     font-family: 'Libre Baskerville', serif;
     z-index: 1;
-    animation: title-fade 2s linear;
+    animation: title-fade ease-in 1s;
 }
 
 @keyframes title-fade {
@@ -37,7 +37,7 @@
     margin-top: 3rem;
     margin-right: 7rem;
     font-family: 'Dancing Script', cursive;
-    animation: title-fade 1s linear;
+    animation: 1s ease-in 1.5s title-fade ;
 }
 
 .subtitle {

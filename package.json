@@ -1,0 +1,29 @@
+{
+  "name": "project_master",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonb.com/Jon--dough88dough88.git"
+  },
+  "keywords": [
+    "web",
+    "developer",
+    "website",
+    "frontend",
+    "backend",
+    "freelance",
+    "entry",
+    "level"
+  ],
+  "author": "jon_dough88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonb.com/Jon--dough88dough88/issues"
+  },
+  "homepage": "https://github.com/Jonb.com/Jon--dough88dough88#readme"
+}

@@ -1,0 +1,5 @@
+.contact-page {
+    background-image: linear-gradient(rgb(12, 12, 44), rgb(18, 18, 98));  
+    min-height: 80rem;
+    justify-content: center;
+}
